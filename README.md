@@ -4,8 +4,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/R0M107)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:romain07022007seb@gmail.com)
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=R0M107&show_icons=true&hide_border=true" />
-
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=R0M107&show_icons=true&theme=ambient_gradient&hide_border=true" />
 Welcome to my Github page!
 
 #### 🌱 Things I am currently working on: 
