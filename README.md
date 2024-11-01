@@ -17,6 +17,7 @@ Welcome to my Github page!
 <p>
 <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
 <img width="10%" src="https://www.logo.wine/a/logo/C%2B%2B/C%2B%2B-Logo.wine.svg">
+<img width="5%" src="https://www.svgrepo.com/show/303206/javascript-logo.svg">
 <br />
 <img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
 <img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
