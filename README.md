@@ -1,8 +1,5 @@
 ### Hi 👋 
-### I'm Romain SEBASTIANI !
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/R0M107)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:romain07022007seb@gmail.com)
+### I'm Romain SEBASTIANI ! A french developper
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=R0M107&show_icons=true&theme=ambient_gradient&hide_border=true" />
 Welcome to my Github page!
@@ -12,6 +9,8 @@ Welcome to my Github page!
 
 #### :muscle: My future projetcs :
 - 🚀 *Coming soon*
+
+#### :mailbox: How to reach me : `romain07022007seb@gmail.com`
 
 #### :computer: Programming languages and tools: 
 <p>
